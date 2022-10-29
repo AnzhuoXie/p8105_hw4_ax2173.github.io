@@ -8,6 +8,8 @@ output:
 
 # This is Anzhuo Xie's personal website.
 
+## Some brief introduction
+
 Now, I am a graduate student in Columbia University, and my major now is public health data science.
 
 <center>
