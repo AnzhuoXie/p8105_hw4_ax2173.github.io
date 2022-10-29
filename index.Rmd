@@ -18,3 +18,5 @@ Now, I am a graduate student in Columbia University, and my major now is public 
 ## Link to page within the site
 
 You can find my personal information about my professional and academic experience in this page: [About me](about.html)
+
+This is the flexdashboard for problem 2: [flexdashboard](dashboard.html)

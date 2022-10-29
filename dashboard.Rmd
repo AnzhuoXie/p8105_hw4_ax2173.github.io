@@ -1,0 +1,65 @@
+---
+title: "Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    source: embed
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+
+library(flexdashboard)
+```
+
+```{r}
+data("ny_noaa")
+
+ny_noaa = 
+  ny_noaa %>% 
+    filter(id %in% c("USC00303152", "USC00309270")) %>% 
+    drop_na()
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+ny_noaa %>% 
+  mutate(text_label = str_c("precipitation is ", prcp)) %>% 
+  plot_ly(
+    x = ~date, y = ~prcp, text = ~text_label, color = ~id,
+    alpha = .5, type = "scatter", mode = "markers", colors = 'viridis'
+  )
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+ny_noaa %>% 
+  plot_ly(
+    x = ~id, y = ~tmax, color = ~id,
+    type = 'box', colors = 'viridis'
+  )
+```
+
+### Chart C
+
+```{r}
+ny_noaa %>% 
+  group_by(id) %>% 
+  count(tmin) %>% 
+  plot_ly(
+    x = ~tmin, y = ~n, color = ~id,
+    type = 'bar', colors = 'viridis'
+  )
+```
+
