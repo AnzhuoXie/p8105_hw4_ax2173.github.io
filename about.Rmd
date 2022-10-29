@@ -19,6 +19,7 @@ Analyzed the brand image for 10 passenger cars, 6 commercial vehicles, and 7 new
 <img src="images/rb.png" style="width:25%">
 </center>
 <br>
+
 ### Microsoft Corporation, Public Sector Healthcare Group Intern (09/2019-02/2020)
 Utilized Python to carry out vertical and horizontal analysis towards all data in the CRM system, and evaluated the potential for in-depth cooperation with hospitals through the analysis of the business volume.
 
