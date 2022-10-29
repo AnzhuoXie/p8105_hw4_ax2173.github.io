@@ -1,0 +1,17 @@
+---
+title: "Homework 4"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Anzhuo Xie's personal website.
+
+Now, I am a graduate student in Columbia University, and my major now is public health data science.
+
+![Columbia](images/columbia.png)
+<center>
+<img scr='images/columbia.png'>
+</center>
+

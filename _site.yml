@@ -1,0 +1,14 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<ax2173@columbia.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/AnzhuoXie/
+    - icon: fa-brands fa-linkedin
+      href: http://www.linkedin.com/in/anzhuo-xie-a71a9124a
+output:
+  html_document:
+    theme: flatly
