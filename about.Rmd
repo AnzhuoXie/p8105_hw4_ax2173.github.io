@@ -1,0 +1,64 @@
+---
+title: "About me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This page includes my academic and professional experience.
+
+## Professtional Experience
+
+### Roland Berger, Analyst Intern (07/2019-09/2019)
+Summarized the brand vision, positioning and target customer information of commercial and passenger vehicles; obtained the survey results of major vehicle brands in 2016 and 2017 through analysis of Ipsos research reports with the utility of R language and SPSS.
+
+Analyzed the brand image for 10 passenger cars, 6 commercial vehicles, and 7 new energy vehicles, finalized the unique word that best fits each brand, and set the brand image as the direction of the next stage of development.
+
+<center>
+<img src="images/rb.png" style="width:25%">
+</center>
+<br>
+### Microsoft Corporation, Public Sector Healthcare Group Intern (09/2019-02/2020)
+Utilized Python to carry out vertical and horizontal analysis towards all data in the CRM system, and evaluated the potential for in-depth cooperation with hospitals through the analysis of the business volume.
+
+Studied the current policies of the healthcare industry, understood the current development of the industry, and analyzed the future development direction and focus of this industry.
+
+Implemented all-round research on hospitals that our team will cooperate with and studied the points where Microsoft can use its own technology to promote the development of the industry.
+
+<center>
+<img src="images/ms.png" style="width:25%">
+</center>
+<br>
+
+### Huatai Security, Researcher Assistant (02/2022-06/2022)
+Utilized Wind and Bloomberg to check the company's annual report, financial data, investor conference minutes in the medical industry; assisted in completing the company's development review report.
+
+Assisted in completing Medical & Healthcare Industry Research reports, including "2030 Medical Technology Outlook", "Science and Technology for Good", "The Past and Present of AI Pharmaceutical" and the liked.
+
+Studied Smart Medical Industry’s development stage, industry scale, key technology iteration, leading companies, competition pattern, and market shares of industry players; built the Smart Medical Industry database.
+
+Researched the policies of the medical and healthcare industry, studied the healthcare industry’s development stage, and analyzed the technology development direction and focus of this industry.
+
+<center>
+<img src="images/huatai.png" style="width:25%">
+</center>
+<br>
+<br>
+
+## Academic Experience
+
+### Analysis of linkage mechanism between air pollution and human health (01/2019-04/2019)
+Established a SO2t - Number of patientst system that covered the SO2 emissions and the number of patients in respiratory department of hospital based on time series data at the macro level, and wielded nonlinear MS (m)-VAR (p) model to capture and portray the complex dynamic changes of the system at different stages.
+
+Analyzed the underlying reasons for the non-linear linkage mechanism between air pollution and human health, and provided theoretical and empirical evidence for the government to select scientific and reasonable policy combinations to control air pollution and improve the health of citizens.
+
+### The impact of interaction on the travel arrangement (10/2018-03/2019)
+Employed group experiment method to study the impact of five forms of information including VR on tourists' pre-travel arrangement from the perspective of psychological distance and contingency.
+
+Utilized C++ language to analyze data and concluded that high contingency and low psychological distance could improve their decision satisfaction.
+
+### Mathematical Contest In Modeling (01/2019)
+Used MATLAB and SPSS to analyze the energy consumption data of existing large mammals, obtained the basal metabolism data of each age of the dragon, and further estimated the basic energy required by the dragon.
+
+Analyzed the data of the average temperature of various dimensions and climate zones around the world, and combined the energy transfer efficiency of the biological chain to obtain the amount of food that the dragon needs.

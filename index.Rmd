@@ -15,3 +15,6 @@ Now, I am a graduate student in Columbia University, and my major now is public 
 <img scr='images/columbia.png'>
 </center>
 
+## Link to page within the site
+
+[About me](about.html)
