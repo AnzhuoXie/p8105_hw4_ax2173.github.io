@@ -10,10 +10,10 @@ output:
 
 Now, I am a graduate student in Columbia University, and my major now is public health data science.
 
-![Columbia](images/columbia.png)
 <center>
-<img scr='images/columbia.png'>
+<img src="images/columbia.png" style="width:75%">
 </center>
+<br>
 
 ## Link to page within the site
 
